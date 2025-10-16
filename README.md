@@ -1,5 +1,5 @@
 <h1 align="center">
-    <b>Hi , I'm Vikramaditya Sharma </b>
+    <b>Hi, I'm Vikramaditya Sharma </b>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on track for learning more about AI algos, Machine Learning, Product Development &
 Systems Design.\
 🚴 &nbsp;In my free time, I pursue cycling and reading about all the technical updates in the world of F1.\
-💬 &nbsp;Always open to collaborating on projects, volunteering, or just exchanging ideas about tech and innovation..\
+💬 &nbsp;Always open to collaborating on projects, volunteering, or just exchanging ideas about tech and innovation.
 ✉️ &nbsp;You can shoot me an email at vikramaditya.raunak@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
